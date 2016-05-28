@@ -1,0 +1,32 @@
+h1 {
+    position: relative;
+    margin: 2%;
+    top: 50px;
+    text-align: center;
+    color: yellow;
+    text-shadow: 2px 2px 1px gold;
+    text-align: center;
+    font-size: 40px;
+}
+
+p.wrap {
+    position: relative;
+    margin: 2%;
+    top: 100px;
+    width: 100%;
+    text-align: center;
+    word-wrap: break-word;
+    color: white;
+    font-size: 25px;    
+    font-weight: bold;
+}
+
+#MF img{
+    position:relative;
+    top: 100px;
+    margin: 15%;
+    border: 2px solid black;
+    border-radius:10px;
+}
+
+

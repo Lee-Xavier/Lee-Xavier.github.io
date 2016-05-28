@@ -1,0 +1,48 @@
+.container {
+        display:table;
+        width: 800px;
+        margin: auto;
+        color: white;
+        font-family: Arial, Helvetica, sans-serif;
+        background-color: black;
+        border: 2px solid red;
+}
+
+body {
+        background: url(../img/background.jpg);
+        background-size: 100% 100%;
+        background-repeat: no-repeat;
+}
+
+h1 {
+        font-size: 25px;
+}
+
+p { 
+        font-size: 18px;
+        text-align: left;
+}
+
+.col-1 {
+        width: 192px;
+        float: left;	    
+	      margin: 10px;
+    }
+
+.col-2 {
+      	 margin-top: 20px;
+         width: 576px;
+         float: left;	     
+    }
+
+aside {
+        display: table-cell;
+}
+
+section.main {
+        display: table-cell;
+}
+
+.clear {
+        clear: both;
+}

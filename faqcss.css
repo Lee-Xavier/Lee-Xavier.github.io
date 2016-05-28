@@ -1,0 +1,43 @@
+body {
+      color: white;
+}
+
+.container {
+      width: 1000px;
+      margin: auto;	
+    }
+	
+.col-1, .col-3 {
+      width: 192px;
+      float: left;
+	    font-size: 18px;
+	    margin: 15px 10px;
+
+    }
+
+.col-2 {
+	    margin-top: 10px;
+      width: 576px;
+      float: left;
+	    font-size: 18px;	  
+    }
+
+h1 {
+      font-size: 34px;
+      font-weight: bold;
+      text-decoration: underline;
+
+}	
+
+.clear {
+      clear: both;
+}
+
+
+.note {
+  font-size: 24px;
+}
+
+a {
+  color: blue;
+}

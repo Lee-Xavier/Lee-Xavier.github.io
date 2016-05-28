@@ -1,0 +1,22 @@
+div.video { 
+     width:650px; 
+     border:6px outset springgreen;
+     padding:10px;
+     margin:0 auto;
+     margin-top: 80px;
+}
+
+figcaption {
+		 padding: 8px;
+		 margin:  10px;
+		 font-size: 1em;
+		 font-weight: 700;
+		 border: 2px solid;
+		 word-wrap:normal;
+		 text-align:center;
+     color: white;
+}
+           
+figure {
+      text-align: center;
+} 
